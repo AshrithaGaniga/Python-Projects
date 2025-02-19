@@ -1,4 +1,4 @@
-# **Exploring World Population Data with Python**  
+# **Exploratory Data Analysis in Python**  
 
 This project involves **analyzing a world population dataset** using **Pandas, Seaborn, and Matplotlib**. The goal was to explore trends across continents and over the years, uncovering key insights about population distribution and growth.  
 
