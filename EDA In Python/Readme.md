@@ -57,6 +57,6 @@ Execute the script in any Python environment:
 
 This project provided valuable experience in **data exploration and visualization**. It was fascinating to analyze **population trends, correlations, and distributions** across different regions.  
 
-📌 **Further exploration could include:**  
+ **Further exploration could include:**  
 - Predicting **future population growth** using machine learning models.  
 - Investigating the **impact of population density on economic factors**.  
